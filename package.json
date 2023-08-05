@@ -1,0 +1,27 @@
+{
+  "name": "cyberspace",
+  "displayName": "Cyberspace",
+  "description": "A color theme relying on gray and cyan colors with primary focus on Python development.",
+  "version": "0.0.1",
+  "publisher": "OmegaDawn",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberspace",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberspace-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmegaDawn/cyberspace_color_Theme"
+  },
+  "license": "MIT License"
+}
