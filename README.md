@@ -8,10 +8,10 @@ A **gray and cyan** VS Code color theme
 
 
 # Installation
-The theme can be installed [direclty](https://code.visualstudio.com/docs/getstarted/themes) in VS Code as an Extension. It it available at the VS code marketplace at https://marketplace.visualstudio.com/items?itemName=OmegaDawn.cyberspace.
+The theme can be installed [direclty](https://code.visualstudio.com/docs/getstarted/themes) in VS Code as an Extension. It is available at the VS code marketplace at https://marketplace.visualstudio.com/items?itemName=OmegaDawn.cyberspace.
 
 
 ---
 
 # Credits
-https://themes.vscode.one/
+https://themes.vscode.one
