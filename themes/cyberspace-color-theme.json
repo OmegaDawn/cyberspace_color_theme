@@ -13,7 +13,7 @@
 		"activityBarBadge.foreground": "#000000",
 		"button.secondaryForeground": "#000000",
 		"button.foreground": "#000000",
-		"editorWhitespace.foreground": "#404040c0",
+		"editorWhitespace.foreground": "#40404070",
 		"notificationCenterHeader.foreground": "#9fd6d8",
 		"panelTitle.inactiveForeground": "#9fd6d8",
 		"titleBar.activeForeground": "#9fd6d8",
@@ -592,7 +592,7 @@
 				"entity.name.namespace",
 			],
 			"settings": {
-				"foreground": "#00e1e1",
+				"foreground": "#00dfdf",
 				"fontStyle": "italic"
 			}
 		},
