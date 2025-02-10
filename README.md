@@ -26,6 +26,8 @@ These tweaks should be added to the user settings file. *(Open this file by pres
 | [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | Changes in *'Extension Settings'*<ul><li>**Gutter Icon Border Color:** `#00ddff`</li><li>**Gutter Icon Fill Color:**`#00ddff`</li></ul>
 |  [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | *Tweaked colors already included in Theme*
 
+<br>
+<br>
 
 | Other settings | Tweak |
 | - | - |
