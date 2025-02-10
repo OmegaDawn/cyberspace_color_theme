@@ -75,6 +75,7 @@
 		"editorMarkerNavigation.background": "#151515",
 		"multiDiffEditor.headerBackground": "#151515",
 		"editorGroupHeader.tabsBackground": "#151515",
+		"tab.unfocusedInactiveBackground": "#151515",
 		"statusBarItem.remoteBackground": "#151515",
 		"commandCenter.activeBackground": "#151515",
 		"quickInputList.focusBackground": "#151515",
@@ -116,7 +117,6 @@
 		"editorStickyScrollHover.background": "#20202000",
 		"peekViewEditorGutter.background": "#202020",
 		"welcomePage.progress.background": "#202020",
-		"tab.unfocusedInactiveBackground": "#202020",
 		"sideBarSectionHeader.background": "#202020",
 		"sideBarStickyScroll.background": "#202020b5",
 		"tab.unfocusedActiveBackground": "#202020",
@@ -161,7 +161,7 @@
 		"sideBySideEditor.horizontalBorder": "#505050",
 		"editorGroup.dropIntoPromptBorder": "#505050",
 		"sideBySideEditor.verticalBorder": "#505050",
-		"tab.unfocusedActiveBorderTop": "#505050",
+		"tab.unfocusedActiveBorderTop": "#06d6a0",
 		"editorGroupHeader.tabsBorder": "#505050",
 		"commandCenter.inactiveBorder": "#505050",
 		"sideBarSectionHeader.border": "#505050",
@@ -501,7 +501,7 @@
 		"mergeEditor.change.word.background": "#00efeb35",
 		"mergeEditor.change.background": "#00efeb25",
 
-		// // Extension colors
+		// Extension colors
 		"errorLens.statusBarIconErrorForeground": "#fa2879",
 		"errorLens.statusBarErrorForeground": "#fa2879",
 		"errorLens.errorMessageBackground": "#00000050",
